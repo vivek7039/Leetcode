@@ -4,8 +4,8 @@ This repository contains my submitted solutions to LeetCode problems. I had alre
 
 ## Repository Details
 
-- Each file is named based on the problem number (e.g., `1.py` for problem 1).
-- Solutions are written in various programming languages, depending on the problem requirements and my preference.
+- Each folder has the problem number and title.
+- Solutions are written in mostly C++ or Python.
 
 ## Purpose
 
